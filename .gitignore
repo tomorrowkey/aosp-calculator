@@ -1,7 +1,7 @@
 .gradle
 .idea
 bin
-build
+Calculator/build
 gen
 local.properties
 *.DS_Store
@@ -9,3 +9,4 @@ local.properties
 *.swp
 *.swo
 *.iml
+bazel-*
