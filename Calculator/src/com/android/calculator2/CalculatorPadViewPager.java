@@ -23,6 +23,8 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.android.calculator200.R;
+
 public class CalculatorPadViewPager extends ViewPager {
 
     private final PagerAdapter mStaticPagerAdapter = new PagerAdapter() {

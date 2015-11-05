@@ -26,6 +26,8 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Map.Entry;
 
+import com.android.calculator200.R;
+
 public class CalculatorExpressionTokenizer {
 
     private final Map<String, String> mReplacementMap;

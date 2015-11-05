@@ -31,7 +31,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.google.android.apps.calculator"
+        applicationId "com.android.calculator200"
         minSdkVersion 17
     }
 

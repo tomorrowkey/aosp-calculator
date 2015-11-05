@@ -20,6 +20,8 @@ import org.javia.arity.Symbols;
 import org.javia.arity.SyntaxException;
 import org.javia.arity.Util;
 
+import com.android.calculator200.R;
+
 public class CalculatorExpressionEvaluator {
 
     /**

@@ -33,6 +33,8 @@ import android.view.MotionEvent;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.android.calculator200.R;
+
 public class CalculatorEditText extends EditText {
 
     private final static ActionMode.Callback NO_SELECTION_ACTION_MODE_CALLBACK =

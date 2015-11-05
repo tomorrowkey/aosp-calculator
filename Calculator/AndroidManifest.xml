@@ -17,7 +17,7 @@
 
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.calculator2">
+    package="com.android.calculator200">
 
     <application
         android:icon="@mipmap/ic_launcher_calculator"
@@ -25,7 +25,7 @@
         android:theme="@style/CalculatorTheme">
 
         <activity
-            android:name=".Calculator"
+            android:name="com.android.calculator2.Calculator"
             android:label="@string/app_name"
             android:windowSoftInputMode="stateAlwaysHidden">
             <intent-filter>
